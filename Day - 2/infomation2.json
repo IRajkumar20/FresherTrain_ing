@@ -1,0 +1,27 @@
+[
+    {
+        "name ": "raj ",
+        "id ": "1 ",
+        "admission_date": "13/11/2001"
+    },
+    {
+        "name ": "kumar ",
+        "id ": "12 ",
+        "admission_date": "11/11/2002"
+    },
+    {
+        "name ": "ram ",
+        "id ": "3 ",
+        "admission_date": "19/12/2001"
+    },
+    {
+        "name ": "sakthi ",
+        "id ": "4 ",
+        "admission_date": "11/12/2002"
+    },
+    {
+        "name ": "karthi ",
+        "id ": "5 ",
+        "admission_date": "01/03/2003"
+    }
+]
