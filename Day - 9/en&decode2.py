@@ -17,3 +17,5 @@ decode_val=base64.b64decode(encode_val).decode("utf-16","ignore")
 
 with open("entoda.txt","w") as f3:
     f3.write((decode_val))
+
+

@@ -77,3 +77,4 @@ for i,val in data1.iterrows():
     to+=result
 
 print("mean squre error:",to)
+

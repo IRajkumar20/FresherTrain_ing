@@ -1,6 +1,6 @@
-id,emp_name,emp_area,salary
-1,raj,chennai,40000.0
-2,kumar,india,40000.0
-3,vel,kumbakonam,318480.0
-4,sakthi,chennai,22600.0
-5,ram,kanniyakumari,41600.0
+id,emp_name,salary
+1,raj,40000.0
+2,kumar,40000.0
+3,vel,318480.0
+4,sakthi,22600.0
+5,ram,41600.0

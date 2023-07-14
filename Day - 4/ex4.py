@@ -9,5 +9,5 @@ with open("employeedet.csv","r") as f1:
        data[id] = i
 
 
-index=input("enter index number:")
-print(data[index])
+# index=input("enter index number:")
+print(data)
